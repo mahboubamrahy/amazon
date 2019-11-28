@@ -23,7 +23,7 @@ public class seco {
 	  obj.price("eruiuiherf");
 	  obj.clicky();
 	  
-	  
+	  System.out.println("oijegvijningrtngnigi");
   }
   @BeforeClass
   public void beforeClass() {
